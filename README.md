@@ -4,11 +4,11 @@
 
 ## 文章目录
 
-以下按提供顺序排列，编号用于区分文章，待导入正文后补充原文标题。
+点击文章标题阅读原文。
 
-1. [公众号文章 01](https://mp.weixin.qq.com/s/CynQaTBAO-gGZN8ZnDOs_Q)
-2. [公众号文章 02](https://mp.weixin.qq.com/s/rce7KgUNI1btTPwUCEi0hw)
-3. [公众号文章 03](https://mp.weixin.qq.com/s/lhvtD0YBwoayd9L_2EYkGw)
-4. [公众号文章 04](https://mp.weixin.qq.com/s/she-SS-qZJTI9EyoqtGNcw)
-5. [公众号文章 05](https://mp.weixin.qq.com/s/zNBQO_cg8q0kE5Rr3uIx_Q)
-6. [公众号文章 06](https://mp.weixin.qq.com/s/xcoAG95xCLCkZjn7GhKS_w)
+1. [一个开源工具，把「逆向工程」从玄学变成了口语对话](https://mp.weixin.qq.com/s/CynQaTBAO-gGZN8ZnDOs_Q)
+2. [模型明明很聪明，为什么还是老答错？聊聊被大多数人忽略的"上下文工程"](https://mp.weixin.qq.com/s/rce7KgUNI1btTPwUCEi0hw)
+3. [AI助手的下一场竞争：是让人敢把事情交出去](https://mp.weixin.qq.com/s/lhvtD0YBwoayd9L_2EYkGw)
+4. [AI 开始替你盯事了，ChatGPT dot、Grok Bot、Muse 到底有什么不一样](https://mp.weixin.qq.com/s/she-SS-qZJTI9EyoqtGNcw)
+5. [它在一间断网的屋子里，自己拨通了外网电话 —— OpenAI 紧急停训背后，那个 "特别想把活干完" 的 AI](https://mp.weixin.qq.com/s/zNBQO_cg8q0kE5Rr3uIx_Q)
+6. [当一个公司开始用 AI，它会先裁谁、后裁谁、永远不裁谁？](https://mp.weixin.qq.com/s/xcoAG95xCLCkZjn7GhKS_w)
